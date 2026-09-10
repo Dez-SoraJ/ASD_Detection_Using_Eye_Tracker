@@ -74,9 +74,9 @@ Designed for clinics, schools, and home settings, it combines real-time processi
 
 The system runs videos at 30 frames per second, displaying real-time motion while flagging dangerous situations which helps teachers or healthcare workers catch events instantly – skipping slow playback check.
 
-Auto data collection works well with regular check-ups on features, cutting 4 down hands-on work – great for research, student wellness drives, or trial runs in clinics
+Auto data collection works well with regular check-ups on features, cutting 4 down hands-on work – great for research, student wellness drive, or trial runs in clinics
 
-<img width="6477" height="388" alt="image" src="https://github.com/user-attachments/assets/4f47fa5b-9c85-4993-a8b9-5b1cd272ea0e" />
+<img width="4500" height="700" alt="image" src="https://github.com/user-attachments/assets/4f47fa5b-9c85-4993-a8b9-5b1cd272ea0e" />
 
 ► Future Enhancements:
 
