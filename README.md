@@ -73,7 +73,7 @@ Auto data collection works well with regular check-ups on features, cutting 4 do
 
 <img width="6477" height="388" alt="image" src="https://github.com/user-attachments/assets/4f47fa5b-9c85-4993-a8b9-5b1cd272ea0e" />
 
-<img width="1120" height="193" alt="image" src="https://github.com/user-attachments/assets/2da5acf8-1d12-4553-aad2-3c1cd3c6bd14" />
+► Future Enhancements:
 
 • Deep Learning–Based Gaze Models: Incorporate transformer or CNN-based gaze-estimation models to improve accuracy under challenging environments.
 
