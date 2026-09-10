@@ -66,7 +66,7 @@ Frame Receiver: Accepts frames streamed from frontend, Gaze Tracking Engine: Ext
 • Smooth Pursuit Metrics: Tracking accuracy, pursuit gain, lag error.
 • Gaze Variability Metrics: Gaze dispersion, jitter, cluster spread
 
-<img width="4500" height="755" alt="image" src="https://github.com/user-attachments/assets/b847f694-2c93-4611-9481-cde1c91dfe5b" />
+<img width="3500" height="890" alt="image" src="https://github.com/user-attachments/assets/b847f694-2c93-4611-9481-cde1c91dfe5b" />
 
 This project presented a complete, AI-powered eye-tracking system designed to support early-stage screening of Autism Spectrum Disorder (ASD) using accessible, webcam-based technology. 
 
