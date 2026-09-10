@@ -7,8 +7,6 @@ o Contains gaze points, fixation data, and blink patterns recorded from particip
 o Usage: Train and validate gaze prediction models, analyze AOIs.
 o Cleaned dataset prepared for accuracy testing and visualization.
 
-<img width="2161" height="377" alt="image" src="https://github.com/user-attachments/assets/6b257ac4-3ba9-4ac8-9463-ad04cbb11b7d" />
-
 ► Key Features
 
 • Gaze Data Collection: Real-time webcam-based eye tracking via MediaPipe FaceMesh.
