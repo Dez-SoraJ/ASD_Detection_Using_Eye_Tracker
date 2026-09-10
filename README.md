@@ -19,6 +19,7 @@ o Cleaned dataset prepared for accuracy testing and visualization.
 
 • Real-time HUD: Live gaze overlays during screening.
 
+<img width="1113" height="1034" alt="image" src="https://github.com/user-attachments/assets/248caf71-3543-451e-9fd4-e71e5cf132ee" />
 
 
 ►User Interface Development:
@@ -40,6 +41,10 @@ This module renders dynamically controlled tasks including:
 • Randomized saccade jumping points.
 
 • Social and non-social video stimuli
+
+<img width="1608" height="897" alt="image" src="https://github.com/user-attachments/assets/4b97e85e-6af6-487b-96ac-422847a9c0f9" />
+
+<img width="1553" height="874" alt="image" src="https://github.com/user-attachments/assets/ed1b166a-5811-400f-84e8-41bed9d2b397" />
 
 <img width="2410" height="890" alt="image" src="https://github.com/user-attachments/assets/cdfaf2c7-4b6d-48c9-8514-79d8fe4154d1" />
 
