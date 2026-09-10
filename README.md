@@ -9,8 +9,17 @@ o Cleaned dataset prepared for accuracy testing and visualization.
 
 <img width="2161" height="377" alt="image" src="https://github.com/user-attachments/assets/6b257ac4-3ba9-4ac8-9463-ad04cbb11b7d" />
 
+► Key Features
 
-<img width="702" height="193" alt="image" src="https://github.com/user-attachments/assets/470790b0-138b-43af-b5f0-ac6d42252e0e" />
+• Gaze Data Collection: Real-time webcam-based eye tracking via MediaPipe FaceMesh.
+ 
+• Behavioural Metric Extraction: Fixations, saccades, blink frequency, pursuit gain, gaze variability. 
+
+• ASD Risk Prediction: Calibrated ensemble ML model (Low / Borderline / High risk). 
+
+• Real-time HUD: Live gaze overlays during screening.
+
+
 
 ►User Interface Development:
 
