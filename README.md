@@ -4,7 +4,9 @@ The primary goal is to create a reliable predictive tool that can act as a scree
 ► Eye Tracking Dataset
 
 o Contains gaze points, fixation data, and blink patterns recorded from participants.
+
 o Usage: Train and validate gaze prediction models, analyze AOIs.
+
 o Cleaned dataset prepared for accuracy testing and visualization.
 
 ► Key Features
